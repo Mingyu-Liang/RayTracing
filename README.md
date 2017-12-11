@@ -1,12 +1,11 @@
 # RayTracing
 ## Description
-This is the assignment2 of Computer Graphics
+This is the assignment2 of Computer Graphics, it implements two balls, one surface and one light.
 ## Attributes
 Opengl version: 4.4.0 - Build 21.20.16.4542 
 
 IDE:VS2017
-
-Cpp file: 
+Cpp files: 
 
 main file: RayTracing.cpp
 
