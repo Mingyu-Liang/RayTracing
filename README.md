@@ -1,4 +1,6 @@
 # RayTracing
+## Description
+This is the assignment2 of Computer Graphics
 ## Attributes
 Opengl version: 4.4.0 - Build 21.20.16.4542 
 
