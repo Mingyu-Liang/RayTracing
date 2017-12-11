@@ -8,10 +8,8 @@ IDE:VS2017
 
 Cpp files: 
 
-main file: RayTracing.cpp
-
-head files: Vector3.h, Scene.h, Objects.h, Rays.h
-
-other source files: Objects.cpp, Rays.cpp, Vector3.cpp 
+>* Main file: RayTracing.cpp
+>* Head files: Vector3.h, Scene.h, Objects.h, Rays.h
+>* Other source files: Objects.cpp, Rays.cpp, Vector3.cpp 
 
 Screenshot: RayTracing.png
